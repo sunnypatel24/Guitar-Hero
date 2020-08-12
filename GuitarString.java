@@ -1,17 +1,3 @@
-/**
- * CS312 Assignment 12.
- *
- * On MY honor, Sunny Patel, this programming assignment is MY own work and I
- * have not provided this code to any other student.
- *
- * Student name: Sunny Patel
- *  UTEID: sgp736 
- * email address: sunnypatel2000@utexas.edu
- *  Grader name: Shreyas
- *  Number of slip days used on this assignment: 0
- *
- */
-
 // A class to create vibrating guitar strings in order to simulate a guitar.
 public class GuitarString {
     private static final int samplingRate = 44100;
